@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="47.33842468261719" lon="-0.3857828378677368">
+        <ele>97.0</ele>
+        <time>2020-04-13T15:15:40.458000Z</time>
+      </trkpt>
+      <trkpt lat="47.33850860595703" lon="-0.38608869910240173">
+        <ele>94.0</ele>
+        <time>2020-04-13T15:15:56.477000Z</time>
+      </trkpt>
+      <trkpt lat="47.3385124206543" lon="-0.3860999643802643">
+        <ele>94.0</ele>
+        <time>2020-04-13T15:15:59.231000Z</time>
+      </trkpt>
+      <trkpt lat="47.33850860595703" lon="-0.3860839307308197">
+        <ele>95.0</ele>
+        <time>2020-04-13T15:16:01.986000Z</time>
+      </trkpt>
+      <trkpt lat="47.3385009765625" lon="-0.38604971766471863">
+        <ele>95.0</ele>
+        <time>2020-04-13T15:16:04.740000Z</time>
+      </trkpt>
+      <trkpt lat="47.33849334716797" lon="-0.3860064148902893">
+        <ele>96.0</ele>
+        <time>2020-04-13T15:16:07.495000Z</time>
+      </trkpt>
+      <trkpt lat="47.3384895324707" lon="-0.3859911262989044">
+        <ele>96.0</ele>
+        <time>2020-04-13T15:16:07.745000Z</time>
+      </trkpt>
+      <trkpt lat="47.3384895324707" lon="-0.3859780430793762">
+        <ele>96.0</ele>
+        <time>2020-04-13T15:16:07.995000Z</time>
+      </trkpt>
+      <trkpt lat="47.33848571777344" lon="-0.3859664499759674">
+        <ele>96.0</ele>
+        <time>2020-04-13T15:16:08.245000Z</time>
+      </trkpt>
+      <trkpt lat="47.33848571777344" lon="-0.3859556019306183">
+        <ele>96.0</ele>
+        <time>2020-04-13T15:16:08.495000Z</time>
+      </trkpt>
+      <trkpt lat="47.33848571777344" lon="-0.3859556019306183">
+        <ele>96.0</ele>
+        <time>2020-04-13T15:16:08.496000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
