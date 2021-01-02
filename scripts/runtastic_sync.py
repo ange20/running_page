@@ -269,7 +269,7 @@ async def get_to_sync_sessions(from_time):
         # sportTypeId in [2, 7, 19] are Walking
         # this may be refine when issue #54 resolved
         # if you want to diy please change here
-        if session.get("deletedAt") or session.get("sportTypeId") not in ["1", "14"]:
+        if session.get("deletedAt") or session.get("sportTypeId") not in ["1", "2", "7", "14", "19"]:
             continue
         rids.append(session.get("id"))
     date = datetime.datetime.utcfromtimestamp(int(sessions_data["syncedUntil"]) / 1000)
